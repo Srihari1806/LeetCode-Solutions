@@ -2500,3 +2500,4 @@ Solved Search Insert Position on 2024-12-27T9:8:00
 Solved Two Sum on 2024-12-27T18:32:00
 Solved Roman to Integer on 2023-08-05T21:26:00
 Solved Valid Parentheses on 2023-08-05T20:52:00
+Solved Merge Sorted Lists on 2023-08-05T22:55:00
