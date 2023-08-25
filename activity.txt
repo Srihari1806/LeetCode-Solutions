@@ -2557,3 +2557,4 @@ Solved Maximum Subarray on 2023-08-25T20:32:00
 Solved Reverse Integer on 2023-08-25T22:54:00
 Solved Search Insert Position on 2023-08-25T15:50:00
 Solved Palindrome Number on 2023-08-25T20:2:00
+Solved Search Insert Position on 2023-08-25T12:36:00
