@@ -2554,3 +2554,4 @@ Solved Valid Parentheses on 2023-08-24T9:44:00
 Solved Two Sum on 2023-08-24T22:20:00
 Solved Two Sum on 2023-08-25T11:58:00
 Solved Maximum Subarray on 2023-08-25T20:32:00
+Solved Reverse Integer on 2023-08-25T22:54:00
