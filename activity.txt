@@ -2571,3 +2571,4 @@ Solved Roman to Integer on 2023-08-26T11:56:00
 Solved Palindrome Number on 2023-08-27T16:42:00
 Solved Palindrome Number on 2023-08-27T20:20:00
 Solved Search Insert Position on 2023-08-27T9:21:00
+Solved Maximum Subarray on 2023-08-27T10:36:00
