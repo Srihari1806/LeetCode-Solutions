@@ -2585,3 +2585,4 @@ Solved Palindrome Number on 2023-08-28T21:47:00
 Solved Search Insert Position on 2023-08-29T18:35:00
 Solved Search Insert Position on 2023-08-29T19:19:00
 Solved Maximum Subarray on 2023-08-29T9:12:00
+Solved Palindrome Number on 2023-08-29T20:37:00
