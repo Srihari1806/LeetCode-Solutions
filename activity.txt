@@ -2599,3 +2599,4 @@ Solved Two Sum on 2023-08-30T9:8:00
 Solved Valid Parentheses on 2023-08-30T21:38:00
 Solved Maximum Subarray on 2023-08-31T9:45:00
 Solved Valid Parentheses on 2023-08-31T10:14:00
+Solved Palindrome Number on 2023-08-31T22:17:00
