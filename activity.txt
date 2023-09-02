@@ -2610,3 +2610,4 @@ Solved Two Sum on 2023-09-02T13:37:00
 Solved Palindrome Number on 2023-09-02T16:11:00
 Solved Valid Parentheses on 2023-09-02T12:58:00
 Solved Merge Sorted Lists on 2023-09-02T22:22:00
+Solved Reverse Integer on 2023-09-02T19:58:00
