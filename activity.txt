@@ -2604,3 +2604,4 @@ Solved Roman to Integer on 2023-09-01T22:23:00
 Solved Reverse Integer on 2023-09-01T10:57:00
 Solved Merge Sorted Lists on 2023-09-01T10:58:00
 Solved Two Sum on 2023-09-02T16:26:00
+Solved Search Insert Position on 2023-09-02T20:8:00
