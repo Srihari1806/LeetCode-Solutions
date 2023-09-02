@@ -2608,3 +2608,4 @@ Solved Search Insert Position on 2023-09-02T20:8:00
 Solved Valid Parentheses on 2023-09-02T23:46:00
 Solved Two Sum on 2023-09-02T13:37:00
 Solved Palindrome Number on 2023-09-02T16:11:00
+Solved Valid Parentheses on 2023-09-02T12:58:00
