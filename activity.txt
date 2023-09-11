@@ -2635,3 +2635,4 @@ Solved Valid Parentheses on 2023-09-11T13:29:00
 Solved Search Insert Position on 2023-09-11T23:36:00
 Solved Merge Sorted Lists on 2023-09-11T20:31:00
 Solved Maximum Subarray on 2023-09-11T17:59:00
+Solved Palindrome Number on 2023-09-11T18:4:00
