@@ -2630,3 +2630,4 @@ Solved Roman to Integer on 2023-09-09T17:20:00
 Solved Roman to Integer on 2023-09-09T11:13:00
 Solved Maximum Subarray on 2023-09-10T19:12:00
 Solved Roman to Integer on 2023-09-10T16:52:00
+Solved Search Insert Position on 2023-09-11T21:12:00
