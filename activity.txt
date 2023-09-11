@@ -2639,3 +2639,4 @@ Solved Palindrome Number on 2023-09-11T18:4:00
 Solved Roman to Integer on 2023-09-11T11:57:00
 Solved Reverse Integer on 2023-09-11T9:38:00
 Solved Palindrome Number on 2023-09-11T20:37:00
+Solved Two Sum on 2023-09-11T19:40:00
