@@ -2659,3 +2659,4 @@ Solved Two Sum on 2023-09-15T9:40:00
 Solved Merge Sorted Lists on 2023-09-15T20:23:00
 Solved Valid Parentheses on 2023-09-15T17:49:00
 Solved Reverse Integer on 2023-09-16T17:17:00
+Solved Valid Parentheses on 2023-09-16T17:25:00
