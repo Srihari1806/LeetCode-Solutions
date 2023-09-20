@@ -2672,3 +2672,4 @@ Solved Roman to Integer on 2023-09-19T20:50:00
 Solved Search Insert Position on 2023-09-19T15:39:00
 Solved Reverse Integer on 2023-09-19T20:48:00
 Solved Palindrome Number on 2023-09-19T9:15:00
+Solved Search Insert Position on 2023-09-20T9:11:00
