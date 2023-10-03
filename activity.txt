@@ -2701,3 +2701,4 @@ Solved Valid Parentheses on 2023-10-02T23:39:00
 Solved Merge Sorted Lists on 2023-10-02T12:0:00
 Solved Merge Sorted Lists on 2023-10-02T20:57:00
 Solved Reverse Integer on 2023-10-02T21:9:00
+Solved Search Insert Position on 2023-10-03T11:34:00
