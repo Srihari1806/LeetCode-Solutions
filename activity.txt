@@ -2720,3 +2720,4 @@ Solved Valid Parentheses on 2023-10-08T11:18:00
 Solved Search Insert Position on 2023-10-08T17:22:00
 Solved Maximum Subarray on 2023-10-08T11:2:00
 Solved Reverse Integer on 2023-10-08T11:14:00
+Solved Reverse Integer on 2023-10-09T9:56:00
