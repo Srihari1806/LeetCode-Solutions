@@ -2741,3 +2741,4 @@ Solved Roman to Integer on 2023-10-17T21:39:00
 Solved Merge Sorted Lists on 2023-10-17T18:52:00
 Solved Valid Parentheses on 2023-10-17T16:53:00
 Solved Valid Parentheses on 2023-10-17T23:40:00
+Solved Two Sum on 2023-10-18T10:27:00
