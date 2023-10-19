@@ -2745,3 +2745,4 @@ Solved Two Sum on 2023-10-18T10:27:00
 Solved Roman to Integer on 2023-10-19T10:37:00
 Solved Roman to Integer on 2023-10-19T14:13:00
 Solved Two Sum on 2023-10-19T15:35:00
+Solved Merge Sorted Lists on 2023-10-19T10:53:00
