@@ -2762,3 +2762,4 @@ Solved Roman to Integer on 2023-10-22T22:25:00
 Solved Reverse Integer on 2023-10-22T10:54:00
 Solved Valid Parentheses on 2023-10-22T23:47:00
 Solved Two Sum on 2023-10-22T20:50:00
+Solved Palindrome Number on 2023-10-22T20:43:00
