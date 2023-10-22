@@ -2759,3 +2759,4 @@ Solved Merge Sorted Lists on 2023-10-21T18:53:00
 Solved Roman to Integer on 2023-10-21T12:33:00
 Solved Two Sum on 2023-10-22T16:43:00
 Solved Roman to Integer on 2023-10-22T22:25:00
+Solved Reverse Integer on 2023-10-22T10:54:00
