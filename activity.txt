@@ -2786,3 +2786,4 @@ Solved Merge Sorted Lists on 2023-10-29T16:52:00
 Solved Merge Sorted Lists on 2023-10-29T22:9:00
 Solved Maximum Subarray on 2023-10-31T9:27:00
 Solved Search Insert Position on 2023-10-31T14:39:00
+Solved Palindrome Number on 2023-10-31T15:12:00
