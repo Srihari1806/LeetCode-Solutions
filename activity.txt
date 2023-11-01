@@ -2799,3 +2799,4 @@ Solved Merge Sorted Lists on 2023-10-31T10:9:00
 Solved Valid Parentheses on 2023-11-01T14:5:00
 Solved Merge Sorted Lists on 2023-11-01T10:43:00
 Solved Valid Parentheses on 2023-11-01T12:26:00
+Solved Two Sum on 2023-11-01T13:56:00
