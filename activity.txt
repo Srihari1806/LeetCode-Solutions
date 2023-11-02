@@ -2808,3 +2808,4 @@ Solved Merge Sorted Lists on 2023-11-02T18:42:00
 Solved Roman to Integer on 2023-11-02T21:5:00
 Solved Two Sum on 2023-11-02T21:9:00
 Solved Two Sum on 2023-11-02T10:37:00
+Solved Reverse Integer on 2023-11-02T18:19:00
