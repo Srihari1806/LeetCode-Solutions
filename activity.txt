@@ -2806,3 +2806,4 @@ Solved Valid Parentheses on 2023-11-02T9:4:00
 Solved Maximum Subarray on 2023-11-02T15:39:00
 Solved Merge Sorted Lists on 2023-11-02T18:42:00
 Solved Roman to Integer on 2023-11-02T21:5:00
+Solved Two Sum on 2023-11-02T21:9:00
