@@ -2852,3 +2852,4 @@ Solved Reverse Integer on 2023-11-15T17:38:00
 Solved Reverse Integer on 2023-11-15T19:4:00
 Solved Maximum Subarray on 2023-11-15T15:43:00
 Solved Maximum Subarray on 2023-11-16T22:35:00
+Solved Search Insert Position on 2023-11-16T14:50:00
