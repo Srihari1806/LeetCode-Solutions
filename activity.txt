@@ -2862,3 +2862,4 @@ Solved Merge Sorted Lists on 2023-11-18T13:15:00
 Solved Maximum Subarray on 2023-11-18T9:3:00
 Solved Roman to Integer on 2023-11-18T12:2:00
 Solved Merge Sorted Lists on 2023-11-18T17:2:00
+Solved Palindrome Number on 2023-11-19T18:55:00
