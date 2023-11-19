@@ -2864,3 +2864,4 @@ Solved Roman to Integer on 2023-11-18T12:2:00
 Solved Merge Sorted Lists on 2023-11-18T17:2:00
 Solved Palindrome Number on 2023-11-19T18:55:00
 Solved Roman to Integer on 2023-11-19T21:22:00
+Solved Reverse Integer on 2023-11-19T14:41:00
