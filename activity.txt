@@ -2883,3 +2883,4 @@ Solved Maximum Subarray on 2023-11-23T14:6:00
 Solved Roman to Integer on 2023-11-23T21:28:00
 Solved Roman to Integer on 2023-11-23T21:47:00
 Solved Palindrome Number on 2023-11-23T19:13:00
+Solved Reverse Integer on 2023-11-24T9:13:00
