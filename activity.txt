@@ -2909,3 +2909,4 @@ Solved Search Insert Position on 2023-11-30T21:24:00
 Solved Palindrome Number on 2023-11-30T18:42:00
 Solved Maximum Subarray on 2023-11-30T9:30:00
 Solved Maximum Subarray on 2023-11-30T15:31:00
+Solved Search Insert Position on 2023-11-30T20:47:00
