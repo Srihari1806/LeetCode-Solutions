@@ -2915,3 +2915,4 @@ Solved Two Sum on 2023-12-01T20:51:00
 Solved Merge Sorted Lists on 2023-12-02T16:25:00
 Solved Roman to Integer on 2023-12-02T19:1:00
 Solved Maximum Subarray on 2023-12-02T17:44:00
+Solved Valid Parentheses on 2023-12-02T18:56:00
