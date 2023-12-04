@@ -2923,3 +2923,4 @@ Solved Palindrome Number on 2023-12-04T22:39:00
 Solved Merge Sorted Lists on 2023-12-04T14:44:00
 Solved Reverse Integer on 2023-12-04T17:25:00
 Solved Maximum Subarray on 2023-12-04T14:48:00
+Solved Search Insert Position on 2023-12-04T21:34:00
