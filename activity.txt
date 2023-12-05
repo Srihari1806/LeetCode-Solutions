@@ -2929,3 +2929,4 @@ Solved Maximum Subarray on 2023-12-05T20:6:00
 Solved Palindrome Number on 2023-12-05T22:56:00
 Solved Search Insert Position on 2023-12-05T10:35:00
 Solved Search Insert Position on 2023-12-05T9:31:00
+Solved Reverse Integer on 2023-12-05T19:11:00
