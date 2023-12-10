@@ -2948,3 +2948,4 @@ Solved Reverse Integer on 2023-12-09T21:15:00
 Solved Maximum Subarray on 2023-12-09T20:49:00
 Solved Palindrome Number on 2023-12-09T10:23:00
 Solved Two Sum on 2023-12-10T23:7:00
+Solved Merge Sorted Lists on 2023-12-10T11:15:00
