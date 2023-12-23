@@ -2981,3 +2981,4 @@ Solved Valid Parentheses on 2023-12-22T9:3:00
 Solved Roman to Integer on 2023-12-23T13:16:00
 Solved Maximum Subarray on 2023-12-23T21:14:00
 Solved Roman to Integer on 2023-12-23T20:52:00
+Solved Palindrome Number on 2023-12-23T11:23:00
