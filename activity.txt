@@ -2984,3 +2984,4 @@ Solved Roman to Integer on 2023-12-23T20:52:00
 Solved Palindrome Number on 2023-12-23T11:23:00
 Solved Merge Sorted Lists on 2023-12-24T20:55:00
 Solved Reverse Integer on 2023-12-24T11:48:00
+Solved Two Sum on 2023-12-24T20:35:00
