@@ -3002,3 +3002,4 @@ Solved Valid Parentheses on 2023-12-27T14:35:00
 Solved Merge Sorted Lists on 2023-12-29T20:43:00
 Solved Palindrome Number on 2023-12-30T16:51:00
 Solved Roman to Integer on 2023-12-30T23:57:00
+Solved Valid Parentheses on 2023-12-31T14:10:00
