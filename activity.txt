@@ -3016,3 +3016,4 @@ Solved Maximum Subarray on 2024-01-02T19:9:00
 Solved Search Insert Position on 2024-01-02T14:45:00
 Solved Search Insert Position on 2024-01-02T14:14:00
 Solved Search Insert Position on 2024-01-02T18:20:00
+Solved Merge Sorted Lists on 2024-01-04T20:28:00
