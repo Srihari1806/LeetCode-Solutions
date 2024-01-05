@@ -3022,3 +3022,4 @@ Solved Palindrome Number on 2024-01-05T14:25:00
 Solved Palindrome Number on 2024-01-05T13:31:00
 Solved Palindrome Number on 2024-01-05T19:13:00
 Solved Reverse Integer on 2024-01-05T13:2:00
+Solved Search Insert Position on 2024-01-05T21:44:00
