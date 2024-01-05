@@ -3018,3 +3018,4 @@ Solved Search Insert Position on 2024-01-02T14:14:00
 Solved Search Insert Position on 2024-01-02T18:20:00
 Solved Merge Sorted Lists on 2024-01-04T20:28:00
 Solved Palindrome Number on 2024-01-04T23:43:00
+Solved Palindrome Number on 2024-01-05T14:25:00
