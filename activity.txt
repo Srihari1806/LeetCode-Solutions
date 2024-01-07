@@ -3030,3 +3030,4 @@ Solved Search Insert Position on 2024-01-06T21:30:00
 Solved Palindrome Number on 2024-01-06T9:3:00
 Solved Palindrome Number on 2024-01-06T10:47:00
 Solved Palindrome Number on 2024-01-07T18:22:00
+Solved Maximum Subarray on 2024-01-07T14:5:00
