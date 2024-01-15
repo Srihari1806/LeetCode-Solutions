@@ -3072,3 +3072,4 @@ Solved Search Insert Position on 2024-01-15T21:22:00
 Solved Merge Sorted Lists on 2024-01-15T21:2:00
 Solved Valid Parentheses on 2024-01-15T18:59:00
 Solved Maximum Subarray on 2024-01-15T22:33:00
+Solved Two Sum on 2024-01-15T13:43:00
