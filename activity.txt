@@ -3066,3 +3066,4 @@ Solved Maximum Subarray on 2024-01-13T20:25:00
 Solved Merge Sorted Lists on 2024-01-14T16:26:00
 Solved Palindrome Number on 2024-01-14T20:44:00
 Solved Two Sum on 2024-01-14T18:1:00
+Solved Valid Parentheses on 2024-01-15T14:41:00
