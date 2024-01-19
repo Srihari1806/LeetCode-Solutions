@@ -3086,3 +3086,4 @@ Solved Two Sum on 2024-01-16T18:55:00
 Solved Reverse Integer on 2024-01-18T13:17:00
 Solved Search Insert Position on 2024-01-18T9:9:00
 Solved Search Insert Position on 2024-01-19T21:57:00
+Solved Palindrome Number on 2024-01-19T17:44:00
