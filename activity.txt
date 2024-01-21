@@ -3089,3 +3089,4 @@ Solved Search Insert Position on 2024-01-19T21:57:00
 Solved Palindrome Number on 2024-01-19T17:44:00
 Solved Maximum Subarray on 2024-01-19T19:53:00
 Solved Two Sum on 2024-01-19T21:21:00
+Solved Two Sum on 2024-01-21T13:50:00
