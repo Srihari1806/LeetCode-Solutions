@@ -3120,3 +3120,4 @@ Solved Maximum Subarray on 2024-01-31T12:43:00
 Solved Reverse Integer on 2024-01-31T22:18:00
 Solved Merge Sorted Lists on 2024-01-31T23:15:00
 Solved Merge Sorted Lists on 2024-01-31T12:6:00
+Solved Two Sum on 2024-01-31T16:52:00
