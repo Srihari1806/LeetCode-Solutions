@@ -3129,3 +3129,4 @@ Solved Maximum Subarray on 2024-01-31T12:49:00
 Solved Valid Parentheses on 2024-01-31T19:36:00
 Solved Valid Parentheses on 2024-02-01T14:9:00
 Solved Merge Sorted Lists on 2024-02-01T18:34:00
+Solved Two Sum on 2024-02-01T10:3:00
