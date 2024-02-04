@@ -3137,3 +3137,4 @@ Solved Merge Sorted Lists on 2024-02-04T11:48:00
 Solved Reverse Integer on 2024-02-04T14:47:00
 Solved Valid Parentheses on 2024-02-04T16:4:00
 Solved Two Sum on 2024-02-04T13:59:00
+Solved Reverse Integer on 2024-02-04T16:19:00
