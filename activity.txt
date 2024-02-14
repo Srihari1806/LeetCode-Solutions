@@ -3168,3 +3168,4 @@ Solved Two Sum on 2024-02-12T10:43:00
 Solved Palindrome Number on 2024-02-13T22:26:00
 Solved Maximum Subarray on 2024-02-13T17:10:00
 Solved Merge Sorted Lists on 2024-02-14T15:11:00
+Solved Reverse Integer on 2024-02-14T22:17:00
