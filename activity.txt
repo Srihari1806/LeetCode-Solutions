@@ -3175,3 +3175,4 @@ Solved Reverse Integer on 2024-02-15T17:11:00
 Solved Roman to Integer on 2024-02-15T16:29:00
 Solved Merge Sorted Lists on 2024-02-15T16:17:00
 Solved Maximum Subarray on 2024-02-15T23:43:00
+Solved Valid Parentheses on 2024-02-15T16:2:00
