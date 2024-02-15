@@ -3173,3 +3173,4 @@ Solved Palindrome Number on 2024-02-15T9:10:00
 Solved Reverse Integer on 2024-02-15T23:50:00
 Solved Reverse Integer on 2024-02-15T17:11:00
 Solved Roman to Integer on 2024-02-15T16:29:00
+Solved Merge Sorted Lists on 2024-02-15T16:17:00
