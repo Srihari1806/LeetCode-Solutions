@@ -3186,3 +3186,4 @@ Solved Maximum Subarray on 2024-02-16T18:22:00
 Solved Palindrome Number on 2024-02-16T23:21:00
 Solved Merge Sorted Lists on 2024-02-17T16:54:00
 Solved Roman to Integer on 2024-02-17T10:6:00
+Solved Valid Parentheses on 2024-02-17T10:51:00
