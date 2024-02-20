@@ -3195,3 +3195,4 @@ Solved Palindrome Number on 2024-02-19T13:59:00
 Solved Valid Parentheses on 2024-02-19T23:47:00
 Solved Valid Parentheses on 2024-02-20T14:22:00
 Solved Valid Parentheses on 2024-02-20T19:19:00
+Solved Reverse Integer on 2024-02-20T13:35:00
