@@ -3193,3 +3193,4 @@ Solved Maximum Subarray on 2024-02-17T23:24:00
 Solved Two Sum on 2024-02-18T9:49:00
 Solved Palindrome Number on 2024-02-19T13:59:00
 Solved Valid Parentheses on 2024-02-19T23:47:00
+Solved Valid Parentheses on 2024-02-20T14:22:00
