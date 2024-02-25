@@ -3214,3 +3214,4 @@ Solved Roman to Integer on 2024-02-24T17:28:00
 Solved Merge Sorted Lists on 2024-02-24T10:14:00
 Solved Maximum Subarray on 2024-02-25T19:31:00
 Solved Maximum Subarray on 2024-02-25T23:49:00
+Solved Reverse Integer on 2024-02-25T9:0:00
