@@ -3237,3 +3237,4 @@ Solved Merge Sorted Lists on 2024-03-03T9:30:00
 Solved Palindrome Number on 2024-03-03T9:6:00
 Solved Roman to Integer on 2024-03-03T12:2:00
 Solved Roman to Integer on 2024-03-03T16:43:00
+Solved Valid Parentheses on 2024-03-03T11:50:00
