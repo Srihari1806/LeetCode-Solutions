@@ -3306,3 +3306,4 @@ Solved Valid Parentheses on 2024-03-20T19:19:00
 Solved Maximum Subarray on 2024-03-20T11:1:00
 Solved Palindrome Number on 2024-03-20T17:17:00
 Solved Roman to Integer on 2024-03-20T23:20:00
+Solved Reverse Integer on 2024-03-21T12:9:00
