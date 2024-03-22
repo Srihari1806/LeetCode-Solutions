@@ -3310,3 +3310,4 @@ Solved Reverse Integer on 2024-03-21T12:9:00
 Solved Merge Sorted Lists on 2024-03-21T9:15:00
 Solved Two Sum on 2024-03-21T15:34:00
 Solved Two Sum on 2024-03-22T9:29:00
+Solved Reverse Integer on 2024-03-22T17:58:00
