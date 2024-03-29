@@ -3341,3 +3341,4 @@ Solved Search Insert Position on 2024-03-29T16:53:00
 Solved Palindrome Number on 2024-03-29T20:50:00
 Solved Roman to Integer on 2024-03-29T13:1:00
 Solved Reverse Integer on 2024-03-29T16:53:00
+Solved Two Sum on 2024-03-29T21:26:00
