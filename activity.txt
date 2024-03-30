@@ -3347,3 +3347,4 @@ Solved Search Insert Position on 2024-03-30T17:45:00
 Solved Two Sum on 2024-03-30T20:34:00
 Solved Merge Sorted Lists on 2024-03-30T9:59:00
 Solved Palindrome Number on 2024-03-30T14:58:00
+Solved Reverse Integer on 2024-03-30T16:35:00
