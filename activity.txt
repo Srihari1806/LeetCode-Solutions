@@ -3350,3 +3350,4 @@ Solved Palindrome Number on 2024-03-30T14:58:00
 Solved Reverse Integer on 2024-03-30T16:35:00
 Solved Search Insert Position on 2024-03-31T22:9:00
 Solved Roman to Integer on 2024-03-31T10:55:00
+Solved Search Insert Position on 2024-04-01T11:21:00
