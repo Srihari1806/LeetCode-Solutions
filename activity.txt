@@ -3360,3 +3360,4 @@ Solved Search Insert Position on 2024-04-05T16:5:00
 Solved Valid Parentheses on 2024-04-05T9:23:00
 Solved Roman to Integer on 2024-04-05T16:11:00
 Solved Two Sum on 2024-04-06T13:41:00
+Solved Valid Parentheses on 2024-04-06T15:53:00
