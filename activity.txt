@@ -3388,3 +3388,4 @@ Solved Two Sum on 2024-04-10T14:56:00
 Solved Roman to Integer on 2024-04-10T20:6:00
 Solved Two Sum on 2024-04-11T15:4:00
 Solved Maximum Subarray on 2024-04-12T20:33:00
+Solved Reverse Integer on 2024-04-12T9:7:00
