@@ -3392,3 +3392,4 @@ Solved Reverse Integer on 2024-04-12T9:7:00
 Solved Roman to Integer on 2024-04-13T22:24:00
 Solved Merge Sorted Lists on 2024-04-13T13:56:00
 Solved Two Sum on 2024-04-14T13:22:00
+Solved Reverse Integer on 2024-04-14T9:15:00
