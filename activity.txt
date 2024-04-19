@@ -3409,3 +3409,4 @@ Solved Search Insert Position on 2024-04-18T23:19:00
 Solved Merge Sorted Lists on 2024-04-18T14:26:00
 Solved Reverse Integer on 2024-04-19T10:42:00
 Solved Reverse Integer on 2024-04-19T20:39:00
+Solved Valid Parentheses on 2024-04-19T23:45:00
