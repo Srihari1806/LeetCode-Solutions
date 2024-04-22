@@ -3421,3 +3421,4 @@ Solved Merge Sorted Lists on 2024-04-22T20:52:00
 Solved Valid Parentheses on 2024-04-22T9:53:00
 Solved Palindrome Number on 2024-04-22T20:32:00
 Solved Roman to Integer on 2024-04-22T15:56:00
+Solved Two Sum on 2024-04-22T10:37:00
