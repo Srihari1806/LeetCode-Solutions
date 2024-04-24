@@ -3428,3 +3428,4 @@ Solved Merge Sorted Lists on 2024-04-24T19:13:00
 Solved Reverse Integer on 2024-04-24T15:45:00
 Solved Two Sum on 2024-04-24T10:45:00
 Solved Maximum Subarray on 2024-04-24T19:51:00
+Solved Search Insert Position on 2024-04-24T14:44:00
