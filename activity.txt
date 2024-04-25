@@ -3442,3 +3442,4 @@ Solved Valid Parentheses on 2024-04-25T20:20:00
 Solved Palindrome Number on 2024-04-25T19:46:00
 Solved Palindrome Number on 2024-04-25T15:59:00
 Solved Palindrome Number on 2024-04-25T9:50:00
+Solved Two Sum on 2024-04-25T10:7:00
