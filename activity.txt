@@ -3456,3 +3456,4 @@ Solved Maximum Subarray on 2024-05-01T18:17:00
 Solved Palindrome Number on 2024-05-02T10:20:00
 Solved Reverse Integer on 2024-05-02T12:28:00
 Solved Two Sum on 2024-05-02T22:58:00
+Solved Search Insert Position on 2024-05-02T12:53:00
