@@ -3461,3 +3461,4 @@ Solved Reverse Integer on 2024-05-02T19:58:00
 Solved Palindrome Number on 2024-05-02T18:13:00
 Solved Valid Parentheses on 2024-05-02T22:3:00
 Solved Roman to Integer on 2024-05-02T23:47:00
+Solved Two Sum on 2024-05-03T9:42:00
