@@ -3480,3 +3480,4 @@ Solved Reverse Integer on 2024-05-06T14:53:00
 Solved Palindrome Number on 2024-05-07T16:47:00
 Solved Reverse Integer on 2024-05-08T15:52:00
 Solved Roman to Integer on 2024-05-08T11:41:00
+Solved Palindrome Number on 2024-05-08T14:31:00
