@@ -3520,3 +3520,4 @@ Solved Search Insert Position on 2024-05-23T10:50:00
 Solved Maximum Subarray on 2024-05-23T10:8:00
 Solved Roman to Integer on 2024-05-23T15:51:00
 Solved Merge Sorted Lists on 2024-05-23T18:34:00
+Solved Reverse Integer on 2024-05-23T19:5:00
