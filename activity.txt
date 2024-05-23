@@ -3511,3 +3511,4 @@ Solved Two Sum on 2024-05-22T12:41:00
 Solved Merge Sorted Lists on 2024-05-22T17:5:00
 Solved Merge Sorted Lists on 2024-05-22T22:4:00
 Solved Roman to Integer on 2024-05-22T19:50:00
+Solved Search Insert Position on 2024-05-23T13:15:00
