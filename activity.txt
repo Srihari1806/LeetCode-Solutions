@@ -3527,3 +3527,4 @@ Solved Valid Parentheses on 2024-05-24T16:18:00
 Solved Reverse Integer on 2024-05-24T22:26:00
 Solved Valid Parentheses on 2024-05-24T17:45:00
 Solved Maximum Subarray on 2024-05-24T19:38:00
+Solved Valid Parentheses on 2024-05-24T21:59:00
