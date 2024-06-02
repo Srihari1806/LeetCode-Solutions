@@ -3552,3 +3552,4 @@ Solved Two Sum on 2024-05-31T12:5:00
 Solved Maximum Subarray on 2024-06-01T23:46:00
 Solved Roman to Integer on 2024-06-01T18:19:00
 Solved Maximum Subarray on 2024-06-01T11:25:00
+Solved Search Insert Position on 2024-06-02T19:42:00
