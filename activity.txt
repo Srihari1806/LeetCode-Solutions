@@ -3560,3 +3560,4 @@ Solved Merge Sorted Lists on 2024-06-04T12:14:00
 Solved Valid Parentheses on 2024-06-04T12:9:00
 Solved Reverse Integer on 2024-06-04T15:16:00
 Solved Palindrome Number on 2024-06-04T12:2:00
+Solved Two Sum on 2024-06-04T21:57:00
