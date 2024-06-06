@@ -3566,3 +3566,4 @@ Solved Valid Parentheses on 2024-06-04T11:3:00
 Solved Merge Sorted Lists on 2024-06-04T19:26:00
 Solved Search Insert Position on 2024-06-05T15:3:00
 Solved Merge Sorted Lists on 2024-06-06T21:48:00
+Solved Two Sum on 2024-06-06T20:39:00
