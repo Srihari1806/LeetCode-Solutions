@@ -3576,3 +3576,4 @@ Solved Roman to Integer on 2024-06-06T19:58:00
 Solved Merge Sorted Lists on 2024-06-06T10:39:00
 Solved Reverse Integer on 2024-06-06T16:26:00
 Solved Reverse Integer on 2024-06-07T16:22:00
+Solved Palindrome Number on 2024-06-07T19:26:00
