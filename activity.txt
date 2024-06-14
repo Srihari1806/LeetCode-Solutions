@@ -3592,3 +3592,4 @@ Solved Maximum Subarray on 2024-06-12T16:39:00
 Solved Palindrome Number on 2024-06-12T17:8:00
 Solved Search Insert Position on 2024-06-13T9:42:00
 Solved Roman to Integer on 2024-06-14T16:50:00
+Solved Reverse Integer on 2024-06-14T22:47:00
