@@ -3634,3 +3634,4 @@ Solved Reverse Integer on 2024-06-28T20:34:00
 Solved Valid Parentheses on 2024-06-29T16:57:00
 Solved Valid Parentheses on 2024-06-29T23:29:00
 Solved Valid Parentheses on 2024-06-29T19:3:00
+Solved Two Sum on 2024-06-29T15:59:00
