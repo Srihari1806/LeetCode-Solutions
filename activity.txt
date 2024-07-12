@@ -3668,3 +3668,4 @@ Solved Reverse Integer on 2024-07-11T9:46:00
 Solved Roman to Integer on 2024-07-11T12:23:00
 Solved Roman to Integer on 2024-07-12T21:26:00
 Solved Maximum Subarray on 2024-07-12T20:58:00
+Solved Valid Parentheses on 2024-07-12T22:52:00
