@@ -3675,3 +3675,4 @@ Solved Two Sum on 2024-07-12T20:28:00
 Solved Maximum Subarray on 2024-07-15T18:28:00
 Solved Roman to Integer on 2024-07-15T10:41:00
 Solved Maximum Subarray on 2024-07-15T17:14:00
+Solved Palindrome Number on 2024-07-16T15:50:00
