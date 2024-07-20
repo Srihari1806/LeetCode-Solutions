@@ -3685,3 +3685,4 @@ Solved Valid Parentheses on 2024-07-18T21:49:00
 Solved Roman to Integer on 2024-07-19T21:40:00
 Solved Merge Sorted Lists on 2024-07-19T12:50:00
 Solved Roman to Integer on 2024-07-19T23:8:00
+Solved Search Insert Position on 2024-07-20T10:29:00
