@@ -3707,3 +3707,4 @@ Solved Valid Parentheses on 2024-07-28T14:48:00
 Solved Two Sum on 2024-07-28T13:13:00
 Solved Two Sum on 2024-07-28T12:38:00
 Solved Palindrome Number on 2024-07-28T22:56:00
+Solved Merge Sorted Lists on 2024-07-28T18:54:00
