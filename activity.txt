@@ -3716,3 +3716,4 @@ Solved Search Insert Position on 2024-07-30T18:45:00
 Solved Maximum Subarray on 2024-07-31T14:9:00
 Solved Maximum Subarray on 2024-07-31T23:46:00
 Solved Maximum Subarray on 2024-07-31T15:7:00
+Solved Search Insert Position on 2024-07-31T12:23:00
