@@ -3720,3 +3720,4 @@ Solved Search Insert Position on 2024-07-31T12:23:00
 Solved Roman to Integer on 2024-08-01T9:57:00
 Solved Merge Sorted Lists on 2024-08-01T23:8:00
 Solved Merge Sorted Lists on 2024-08-01T11:35:00
+Solved Merge Sorted Lists on 2024-08-02T18:57:00
