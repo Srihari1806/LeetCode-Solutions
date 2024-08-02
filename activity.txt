@@ -3723,3 +3723,4 @@ Solved Merge Sorted Lists on 2024-08-01T11:35:00
 Solved Merge Sorted Lists on 2024-08-02T18:57:00
 Solved Valid Parentheses on 2024-08-02T22:33:00
 Solved Palindrome Number on 2024-08-02T22:39:00
+Solved Valid Parentheses on 2024-08-02T22:18:00
