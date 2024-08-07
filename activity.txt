@@ -3740,3 +3740,4 @@ Solved Two Sum on 2024-08-05T20:59:00
 Solved Merge Sorted Lists on 2024-08-05T13:22:00
 Solved Reverse Integer on 2024-08-06T21:54:00
 Solved Palindrome Number on 2024-08-06T15:10:00
+Solved Merge Sorted Lists on 2024-08-07T19:40:00
