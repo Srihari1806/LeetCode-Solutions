@@ -3760,3 +3760,4 @@ Solved Roman to Integer on 2024-08-12T17:21:00
 Solved Search Insert Position on 2024-08-13T13:8:00
 Solved Merge Sorted Lists on 2024-08-13T11:44:00
 Solved Palindrome Number on 2024-08-13T22:46:00
+Solved Reverse Integer on 2024-08-13T9:43:00
