@@ -3777,3 +3777,4 @@ Solved Search Insert Position on 2024-08-17T23:58:00
 Solved Merge Sorted Lists on 2024-08-17T15:48:00
 Solved Maximum Subarray on 2024-08-17T14:2:00
 Solved Palindrome Number on 2024-08-17T11:17:00
+Solved Search Insert Position on 2024-08-17T11:33:00
