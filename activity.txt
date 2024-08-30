@@ -3820,3 +3820,4 @@ Solved Roman to Integer on 2024-08-29T18:57:00
 Solved Merge Sorted Lists on 2024-08-29T16:33:00
 Solved Valid Parentheses on 2024-08-30T20:7:00
 Solved Valid Parentheses on 2024-08-30T12:46:00
+Solved Two Sum on 2024-08-30T22:57:00
