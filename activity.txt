@@ -3828,3 +3828,4 @@ Solved Roman to Integer on 2024-08-31T17:5:00
 Solved Roman to Integer on 2024-08-31T15:6:00
 Solved Valid Parentheses on 2024-08-31T15:36:00
 Solved Two Sum on 2024-08-31T23:4:00
+Solved Valid Parentheses on 2024-08-31T13:41:00
