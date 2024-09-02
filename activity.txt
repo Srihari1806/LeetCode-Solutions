@@ -3837,3 +3837,4 @@ Solved Reverse Integer on 2024-09-01T9:22:00
 Solved Maximum Subarray on 2024-09-01T16:18:00
 Solved Roman to Integer on 2024-09-02T19:30:00
 Solved Search Insert Position on 2024-09-02T20:27:00
+Solved Reverse Integer on 2024-09-02T11:18:00
