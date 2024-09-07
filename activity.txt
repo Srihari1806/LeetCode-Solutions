@@ -3848,3 +3848,4 @@ Solved Merge Sorted Lists on 2024-09-03T17:57:00
 Solved Merge Sorted Lists on 2024-09-03T18:52:00
 Solved Palindrome Number on 2024-09-04T23:2:00
 Solved Reverse Integer on 2024-09-04T12:26:00
+Solved Reverse Integer on 2024-09-07T20:49:00
