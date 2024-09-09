@@ -3860,3 +3860,4 @@ Solved Reverse Integer on 2024-09-08T14:0:00
 Solved Palindrome Number on 2024-09-09T22:29:00
 Solved Maximum Subarray on 2024-09-09T10:59:00
 Solved Reverse Integer on 2024-09-09T17:58:00
+Solved Search Insert Position on 2024-09-09T10:6:00
