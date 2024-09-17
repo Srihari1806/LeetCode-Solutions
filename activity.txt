@@ -3895,3 +3895,4 @@ Solved Merge Sorted Lists on 2024-09-17T15:47:00
 Solved Two Sum on 2024-09-17T22:55:00
 Solved Two Sum on 2024-09-17T11:45:00
 Solved Palindrome Number on 2024-09-17T21:50:00
+Solved Reverse Integer on 2024-09-17T19:55:00
