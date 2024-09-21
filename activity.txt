@@ -3914,3 +3914,4 @@ Solved Palindrome Number on 2024-09-20T9:19:00
 Solved Search Insert Position on 2024-09-20T23:43:00
 Solved Merge Sorted Lists on 2024-09-20T21:56:00
 Solved Roman to Integer on 2024-09-21T15:45:00
+Solved Search Insert Position on 2024-09-21T14:49:00
