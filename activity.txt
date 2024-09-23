@@ -3917,3 +3917,4 @@ Solved Roman to Integer on 2024-09-21T15:45:00
 Solved Search Insert Position on 2024-09-21T14:49:00
 Solved Roman to Integer on 2024-09-22T18:35:00
 Solved Merge Sorted Lists on 2024-09-23T18:31:00
+Solved Search Insert Position on 2024-09-23T14:42:00
