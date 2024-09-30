@@ -3930,3 +3930,4 @@ Solved Merge Sorted Lists on 2024-09-26T15:10:00
 Solved Two Sum on 2024-09-26T20:41:00
 Solved Maximum Subarray on 2024-09-27T16:9:00
 Solved Roman to Integer on 2024-09-30T11:55:00
+Solved Search Insert Position on 2024-09-30T17:43:00
