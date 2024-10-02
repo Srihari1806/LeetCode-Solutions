@@ -3935,3 +3935,4 @@ Solved Valid Parentheses on 2024-10-01T21:39:00
 Solved Reverse Integer on 2024-10-01T15:0:00
 Solved Valid Parentheses on 2024-10-02T11:2:00
 Solved Merge Sorted Lists on 2024-10-02T16:15:00
+Solved Reverse Integer on 2024-10-02T15:38:00
