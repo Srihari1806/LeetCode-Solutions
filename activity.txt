@@ -3943,3 +3943,4 @@ Solved Roman to Integer on 2024-10-02T13:22:00
 Solved Valid Parentheses on 2024-10-02T13:6:00
 Solved Palindrome Number on 2024-10-02T23:25:00
 Solved Reverse Integer on 2024-10-02T12:47:00
+Solved Merge Sorted Lists on 2024-10-02T23:0:00
