@@ -3945,3 +3945,4 @@ Solved Palindrome Number on 2024-10-02T23:25:00
 Solved Reverse Integer on 2024-10-02T12:47:00
 Solved Merge Sorted Lists on 2024-10-02T23:0:00
 Solved Search Insert Position on 2024-10-03T21:9:00
+Solved Merge Sorted Lists on 2024-10-04T22:48:00
