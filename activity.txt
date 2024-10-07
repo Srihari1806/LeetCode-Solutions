@@ -3954,3 +3954,4 @@ Solved Palindrome Number on 2024-10-07T16:6:00
 Solved Merge Sorted Lists on 2024-10-07T17:15:00
 Solved Search Insert Position on 2024-10-07T20:42:00
 Solved Reverse Integer on 2024-10-07T22:1:00
+Solved Search Insert Position on 2024-10-07T22:58:00
