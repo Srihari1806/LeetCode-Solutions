@@ -3962,3 +3962,4 @@ Solved Maximum Subarray on 2024-10-09T20:13:00
 Solved Merge Sorted Lists on 2024-10-09T9:7:00
 Solved Roman to Integer on 2024-10-09T14:38:00
 Solved Merge Sorted Lists on 2024-10-09T15:26:00
+Solved Search Insert Position on 2024-10-09T13:38:00
