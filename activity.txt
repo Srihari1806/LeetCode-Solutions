@@ -3975,3 +3975,4 @@ Solved Roman to Integer on 2024-10-10T12:6:00
 Solved Roman to Integer on 2024-10-10T16:11:00
 Solved Palindrome Number on 2024-10-11T16:12:00
 Solved Search Insert Position on 2024-10-11T20:8:00
+Solved Search Insert Position on 2024-10-11T23:53:00
