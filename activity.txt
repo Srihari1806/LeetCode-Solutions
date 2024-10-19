@@ -3987,3 +3987,4 @@ Solved Maximum Subarray on 2024-10-16T17:41:00
 Solved Palindrome Number on 2024-10-16T17:27:00
 Solved Roman to Integer on 2024-10-16T10:29:00
 Solved Reverse Integer on 2024-10-17T21:57:00
+Solved Merge Sorted Lists on 2024-10-19T19:51:00
