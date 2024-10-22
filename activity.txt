@@ -3999,3 +3999,4 @@ Solved Reverse Integer on 2024-10-21T14:14:00
 Solved Roman to Integer on 2024-10-21T19:0:00
 Solved Maximum Subarray on 2024-10-22T11:34:00
 Solved Palindrome Number on 2024-10-22T13:34:00
+Solved Search Insert Position on 2024-10-22T17:42:00
