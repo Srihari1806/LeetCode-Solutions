@@ -4015,3 +4015,4 @@ Solved Maximum Subarray on 2024-10-24T16:35:00
 Solved Merge Sorted Lists on 2024-10-25T23:31:00
 Solved Merge Sorted Lists on 2024-10-25T19:33:00
 Solved Two Sum on 2024-10-25T16:22:00
+Solved Valid Parentheses on 2024-10-26T18:18:00
