@@ -4054,3 +4054,4 @@ Solved Maximum Subarray on 2024-11-03T13:42:00
 Solved Palindrome Number on 2024-11-03T9:30:00
 Solved Merge Sorted Lists on 2024-11-03T17:53:00
 Solved Roman to Integer on 2024-11-03T16:57:00
+Solved Two Sum on 2024-11-03T12:12:00
