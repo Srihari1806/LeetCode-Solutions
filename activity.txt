@@ -4063,3 +4063,4 @@ Solved Reverse Integer on 2024-11-05T11:41:00
 Solved Two Sum on 2024-11-05T16:3:00
 Solved Maximum Subarray on 2024-11-05T17:45:00
 Solved Roman to Integer on 2024-11-06T23:6:00
+Solved Valid Parentheses on 2024-11-06T23:23:00
