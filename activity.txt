@@ -4093,3 +4093,4 @@ Solved Roman to Integer on 2024-11-19T11:0:00
 Solved Maximum Subarray on 2024-11-19T10:42:00
 Solved Maximum Subarray on 2024-11-19T11:28:00
 Solved Maximum Subarray on 2024-11-19T12:27:00
+Solved Search Insert Position on 2024-11-20T22:59:00
