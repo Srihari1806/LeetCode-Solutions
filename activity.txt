@@ -4117,3 +4117,4 @@ Solved Reverse Integer on 2024-11-26T12:2:00
 Solved Merge Sorted Lists on 2024-11-26T23:59:00
 Solved Merge Sorted Lists on 2024-11-26T18:26:00
 Solved Valid Parentheses on 2024-11-27T16:56:00
+Solved Two Sum on 2024-11-27T15:24:00
