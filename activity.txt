@@ -4132,3 +4132,4 @@ Solved Reverse Integer on 2024-11-29T17:23:00
 Solved Two Sum on 2024-11-29T18:28:00
 Solved Two Sum on 2024-11-29T15:33:00
 Solved Roman to Integer on 2024-11-29T22:34:00
+Solved Valid Parentheses on 2024-11-29T11:57:00
