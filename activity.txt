@@ -4134,3 +4134,4 @@ Solved Two Sum on 2024-11-29T15:33:00
 Solved Roman to Integer on 2024-11-29T22:34:00
 Solved Valid Parentheses on 2024-11-29T11:57:00
 Solved Merge Sorted Lists on 2024-11-29T13:54:00
+Solved Valid Parentheses on 2024-11-29T13:59:00
