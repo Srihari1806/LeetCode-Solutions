@@ -4129,3 +4129,4 @@ Solved Palindrome Number on 2024-11-29T9:55:00
 Solved Two Sum on 2024-11-29T13:31:00
 Solved Valid Parentheses on 2024-11-29T17:33:00
 Solved Reverse Integer on 2024-11-29T17:23:00
+Solved Two Sum on 2024-11-29T18:28:00
