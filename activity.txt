@@ -4140,3 +4140,4 @@ Solved Maximum Subarray on 2024-11-30T19:21:00
 Solved Two Sum on 2024-12-01T18:3:00
 Solved Merge Sorted Lists on 2024-12-01T12:41:00
 Solved Maximum Subarray on 2024-12-02T19:51:00
+Solved Valid Parentheses on 2024-12-02T19:8:00
