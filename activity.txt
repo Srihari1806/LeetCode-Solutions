@@ -4157,3 +4157,4 @@ Solved Reverse Integer on 2024-12-05T15:48:00
 Solved Merge Sorted Lists on 2024-12-05T21:3:00
 Solved Maximum Subarray on 2024-12-05T14:56:00
 Solved Roman to Integer on 2024-12-05T13:57:00
+Solved Palindrome Number on 2024-12-06T11:29:00
