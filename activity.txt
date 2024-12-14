@@ -4168,3 +4168,4 @@ Solved Roman to Integer on 2024-12-12T15:43:00
 Solved Roman to Integer on 2024-12-12T21:21:00
 Solved Reverse Integer on 2024-12-12T18:37:00
 Solved Roman to Integer on 2024-12-13T17:52:00
+Solved Search Insert Position on 2024-12-14T14:10:00
