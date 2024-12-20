@@ -4182,3 +4182,4 @@ Solved Search Insert Position on 2024-12-15T10:3:00
 Solved Reverse Integer on 2024-12-17T16:35:00
 Solved Valid Parentheses on 2024-12-17T14:57:00
 Solved Reverse Integer on 2024-12-19T15:0:00
+Solved Palindrome Number on 2024-12-20T10:16:00
