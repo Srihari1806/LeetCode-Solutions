@@ -4190,3 +4190,4 @@ Solved Roman to Integer on 2024-12-20T22:30:00
 Solved Merge Sorted Lists on 2024-12-20T18:58:00
 Solved Valid Parentheses on 2024-12-21T15:14:00
 Solved Merge Sorted Lists on 2024-12-21T18:25:00
+Solved Reverse Integer on 2024-12-21T21:22:00
