@@ -4192,3 +4192,4 @@ Solved Valid Parentheses on 2024-12-21T15:14:00
 Solved Merge Sorted Lists on 2024-12-21T18:25:00
 Solved Reverse Integer on 2024-12-21T21:22:00
 Solved Reverse Integer on 2024-12-22T22:55:00
+Solved Search Insert Position on 2024-12-22T21:52:00
