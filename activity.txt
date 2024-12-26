@@ -4203,3 +4203,4 @@ Solved Reverse Integer on 2024-12-23T17:33:00
 Solved Maximum Subarray on 2024-12-23T15:30:00
 Solved Roman to Integer on 2024-12-25T16:41:00
 Solved Roman to Integer on 2024-12-25T10:32:00
+Solved Palindrome Number on 2024-12-26T23:47:00
