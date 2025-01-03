@@ -4225,3 +4225,4 @@ Solved Merge Sorted Lists on 2025-01-02T22:50:00
 Solved Two Sum on 2025-01-02T10:57:00
 Solved Valid Parentheses on 2025-01-02T13:16:00
 Solved Merge Sorted Lists on 2025-01-03T17:51:00
+Solved Reverse Integer on 2025-01-03T20:32:00
