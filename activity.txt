@@ -4231,3 +4231,4 @@ Solved Search Insert Position on 2025-01-04T23:22:00
 Solved Valid Parentheses on 2025-01-04T11:27:00
 Solved Reverse Integer on 2025-01-04T18:36:00
 Solved Roman to Integer on 2025-01-04T17:37:00
+Solved Merge Sorted Lists on 2025-01-04T20:19:00
