@@ -4227,3 +4227,4 @@ Solved Valid Parentheses on 2025-01-02T13:16:00
 Solved Merge Sorted Lists on 2025-01-03T17:51:00
 Solved Reverse Integer on 2025-01-03T20:32:00
 Solved Palindrome Number on 2025-01-03T13:59:00
+Solved Search Insert Position on 2025-01-04T23:22:00
