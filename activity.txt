@@ -4278,3 +4278,4 @@ Solved Valid Parentheses on 2025-01-17T18:48:00
 Solved Roman to Integer on 2025-01-18T21:5:00
 Solved Maximum Subarray on 2025-01-18T9:4:00
 Solved Roman to Integer on 2025-01-19T22:21:00
+Solved Search Insert Position on 2025-01-19T22:58:00
