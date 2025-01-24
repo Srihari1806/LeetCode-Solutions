@@ -4293,3 +4293,4 @@ Solved Palindrome Number on 2025-01-24T21:22:00
 Solved Two Sum on 2025-01-24T13:55:00
 Solved Palindrome Number on 2025-01-24T18:1:00
 Solved Merge Sorted Lists on 2025-01-24T20:41:00
+Solved Valid Parentheses on 2025-01-24T22:58:00
