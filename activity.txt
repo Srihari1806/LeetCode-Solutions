@@ -4296,3 +4296,4 @@ Solved Merge Sorted Lists on 2025-01-24T20:41:00
 Solved Valid Parentheses on 2025-01-24T22:58:00
 Solved Maximum Subarray on 2025-01-24T20:29:00
 Solved Merge Sorted Lists on 2025-01-25T12:37:00
+Solved Reverse Integer on 2025-01-25T16:30:00
