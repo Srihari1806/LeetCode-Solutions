@@ -4298,3 +4298,4 @@ Solved Maximum Subarray on 2025-01-24T20:29:00
 Solved Merge Sorted Lists on 2025-01-25T12:37:00
 Solved Reverse Integer on 2025-01-25T16:30:00
 Solved Maximum Subarray on 2025-01-26T15:23:00
+Solved Search Insert Position on 2025-01-26T13:56:00
