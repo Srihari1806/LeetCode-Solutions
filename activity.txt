@@ -4329,3 +4329,4 @@ Solved Merge Sorted Lists on 2025-02-04T14:12:00
 Solved Valid Parentheses on 2025-02-04T11:52:00
 Solved Reverse Integer on 2025-02-05T11:55:00
 Solved Roman to Integer on 2025-02-06T14:2:00
+Solved Reverse Integer on 2025-02-06T12:1:00
