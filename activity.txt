@@ -4358,3 +4358,4 @@ Solved Reverse Integer on 2025-02-18T19:10:00
 Solved Reverse Integer on 2025-02-19T10:44:00
 Solved Search Insert Position on 2025-02-19T19:32:00
 Solved Merge Sorted Lists on 2025-02-19T23:40:00
+Solved Valid Parentheses on 2025-02-20T9:57:00
