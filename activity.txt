@@ -4382,3 +4382,4 @@ Solved Merge Sorted Lists on 2025-02-25T20:12:00
 Solved Valid Parentheses on 2025-02-26T19:50:00
 Solved Valid Parentheses on 2025-02-26T20:14:00
 Solved Reverse Integer on 2025-02-26T17:25:00
+Solved Palindrome Number on 2025-02-27T13:22:00
