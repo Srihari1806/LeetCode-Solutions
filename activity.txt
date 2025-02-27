@@ -4390,3 +4390,4 @@ Solved Maximum Subarray on 2025-02-27T20:2:00
 Solved Maximum Subarray on 2025-02-27T21:58:00
 Solved Reverse Integer on 2025-02-27T11:10:00
 Solved Palindrome Number on 2025-02-27T19:30:00
+Solved Search Insert Position on 2025-02-27T12:51:00
