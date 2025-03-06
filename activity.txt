@@ -4421,3 +4421,4 @@ Solved Two Sum on 2025-03-06T14:39:00
 Solved Valid Parentheses on 2025-03-06T9:47:00
 Solved Roman to Integer on 2025-03-06T18:3:00
 Solved Two Sum on 2025-03-06T20:34:00
+Solved Reverse Integer on 2025-03-06T11:31:00
