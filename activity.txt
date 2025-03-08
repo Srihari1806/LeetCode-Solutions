@@ -4429,3 +4429,4 @@ Solved Merge Sorted Lists on 2025-03-07T16:54:00
 Solved Maximum Subarray on 2025-03-07T13:32:00
 Solved Reverse Integer on 2025-03-07T17:56:00
 Solved Merge Sorted Lists on 2025-03-08T22:48:00
+Solved Valid Parentheses on 2025-03-08T14:19:00
