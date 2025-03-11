@@ -4443,3 +4443,4 @@ Solved Valid Parentheses on 2025-03-11T11:22:00
 Solved Reverse Integer on 2025-03-11T21:27:00
 Solved Two Sum on 2025-03-11T21:52:00
 Solved Reverse Integer on 2025-03-11T15:33:00
+Solved Palindrome Number on 2025-03-11T13:12:00
