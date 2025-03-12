@@ -4449,3 +4449,4 @@ Solved Palindrome Number on 2025-03-11T12:26:00
 Solved Maximum Subarray on 2025-03-11T10:28:00
 Solved Palindrome Number on 2025-03-11T14:2:00
 Solved Merge Sorted Lists on 2025-03-11T10:53:00
+Solved Valid Parentheses on 2025-03-12T18:37:00
