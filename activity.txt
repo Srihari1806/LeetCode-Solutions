@@ -4454,3 +4454,4 @@ Solved Roman to Integer on 2025-03-12T12:45:00
 Solved Merge Sorted Lists on 2025-03-12T17:24:00
 Solved Palindrome Number on 2025-03-12T23:0:00
 Solved Reverse Integer on 2025-03-12T17:35:00
+Solved Search Insert Position on 2025-03-13T15:13:00
