@@ -4467,3 +4467,4 @@ Solved Search Insert Position on 2025-03-15T12:24:00
 Solved Roman to Integer on 2025-03-16T16:22:00
 Solved Valid Parentheses on 2025-03-16T10:8:00
 Solved Palindrome Number on 2025-03-17T18:37:00
+Solved Valid Parentheses on 2025-03-18T20:21:00
