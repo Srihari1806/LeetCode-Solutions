@@ -4469,3 +4469,4 @@ Solved Valid Parentheses on 2025-03-16T10:8:00
 Solved Palindrome Number on 2025-03-17T18:37:00
 Solved Valid Parentheses on 2025-03-18T20:21:00
 Solved Reverse Integer on 2025-03-18T19:45:00
+Solved Two Sum on 2025-03-18T9:38:00
