@@ -4483,3 +4483,4 @@ Solved Valid Parentheses on 2025-03-22T11:51:00
 Solved Reverse Integer on 2025-03-22T13:55:00
 Solved Two Sum on 2025-03-22T19:46:00
 Solved Maximum Subarray on 2025-03-22T10:15:00
+Solved Reverse Integer on 2025-03-22T14:17:00
