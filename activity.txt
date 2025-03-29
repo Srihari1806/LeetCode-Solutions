@@ -4510,3 +4510,4 @@ Solved Palindrome Number on 2025-03-28T11:26:00
 Solved Two Sum on 2025-03-28T13:15:00
 Solved Two Sum on 2025-03-28T22:22:00
 Solved Maximum Subarray on 2025-03-28T23:45:00
+Solved Reverse Integer on 2025-03-29T15:36:00
