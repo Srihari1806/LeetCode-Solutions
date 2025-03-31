@@ -4522,3 +4522,4 @@ Solved Two Sum on 2025-03-31T17:15:00
 Solved Maximum Subarray on 2025-03-31T12:22:00
 Solved Reverse Integer on 2025-03-31T18:23:00
 Solved Merge Sorted Lists on 2025-03-31T15:50:00
+Solved Valid Parentheses on 2025-03-31T12:41:00
