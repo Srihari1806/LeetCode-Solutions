@@ -4528,3 +4528,4 @@ Solved Maximum Subarray on 2025-03-31T10:4:00
 Solved Search Insert Position on 2025-03-31T23:13:00
 Solved Search Insert Position on 2025-04-01T19:37:00
 Solved Merge Sorted Lists on 2025-04-01T15:46:00
+Solved Reverse Integer on 2025-04-01T20:12:00
