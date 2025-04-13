@@ -4560,3 +4560,4 @@ Solved Maximum Subarray on 2025-04-11T18:9:00
 Solved Maximum Subarray on 2025-04-11T9:2:00
 Solved Maximum Subarray on 2025-04-12T9:59:00
 Solved Reverse Integer on 2025-04-12T23:32:00
+Solved Search Insert Position on 2025-04-13T19:15:00
