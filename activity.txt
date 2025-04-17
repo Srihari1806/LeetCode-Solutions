@@ -4566,3 +4566,4 @@ Solved Valid Parentheses on 2025-04-17T22:14:00
 Solved Search Insert Position on 2025-04-17T15:24:00
 Solved Merge Sorted Lists on 2025-04-17T17:30:00
 Solved Roman to Integer on 2025-04-17T22:44:00
+Solved Search Insert Position on 2025-04-17T15:4:00
