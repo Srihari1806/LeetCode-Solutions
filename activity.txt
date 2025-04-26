@@ -4585,3 +4585,4 @@ Solved Two Sum on 2025-04-23T17:28:00
 Solved Valid Parentheses on 2025-04-23T22:9:00
 Solved Roman to Integer on 2025-04-24T21:14:00
 Solved Roman to Integer on 2025-04-24T17:53:00
+Solved Reverse Integer on 2025-04-26T18:45:00
