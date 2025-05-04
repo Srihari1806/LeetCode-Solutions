@@ -4603,3 +4603,4 @@ Solved Palindrome Number on 2025-05-02T23:23:00
 Solved Merge Sorted Lists on 2025-05-03T13:51:00
 Solved Search Insert Position on 2025-05-04T9:40:00
 Solved Reverse Integer on 2025-05-04T22:14:00
+Solved Roman to Integer on 2025-05-04T11:25:00
