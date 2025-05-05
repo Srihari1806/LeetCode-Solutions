@@ -4606,3 +4606,4 @@ Solved Reverse Integer on 2025-05-04T22:14:00
 Solved Roman to Integer on 2025-05-04T11:25:00
 Solved Roman to Integer on 2025-05-05T14:2:00
 Solved Reverse Integer on 2025-05-05T13:40:00
+Solved Valid Parentheses on 2025-05-05T19:29:00
