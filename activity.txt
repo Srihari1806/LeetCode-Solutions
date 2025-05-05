@@ -4605,3 +4605,4 @@ Solved Search Insert Position on 2025-05-04T9:40:00
 Solved Reverse Integer on 2025-05-04T22:14:00
 Solved Roman to Integer on 2025-05-04T11:25:00
 Solved Roman to Integer on 2025-05-05T14:2:00
+Solved Reverse Integer on 2025-05-05T13:40:00
