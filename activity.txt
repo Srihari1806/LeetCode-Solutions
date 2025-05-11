@@ -4630,3 +4630,4 @@ Solved Reverse Integer on 2025-05-10T9:10:00
 Solved Two Sum on 2025-05-10T23:10:00
 Solved Palindrome Number on 2025-05-11T20:58:00
 Solved Valid Parentheses on 2025-05-11T15:25:00
+Solved Roman to Integer on 2025-05-11T21:27:00
