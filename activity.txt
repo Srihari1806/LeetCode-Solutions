@@ -4634,3 +4634,4 @@ Solved Roman to Integer on 2025-05-11T21:27:00
 Solved Palindrome Number on 2025-05-11T20:35:00
 Solved Reverse Integer on 2025-05-11T15:15:00
 Solved Two Sum on 2025-05-12T23:52:00
+Solved Palindrome Number on 2025-05-12T22:25:00
