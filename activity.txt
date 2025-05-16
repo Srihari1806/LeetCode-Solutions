@@ -4645,3 +4645,4 @@ Solved Reverse Integer on 2025-05-14T10:32:00
 Solved Roman to Integer on 2025-05-15T15:34:00
 Solved Maximum Subarray on 2025-05-15T19:35:00
 Solved Merge Sorted Lists on 2025-05-15T13:40:00
+Solved Search Insert Position on 2025-05-16T23:37:00
