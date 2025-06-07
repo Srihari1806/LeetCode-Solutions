@@ -4700,3 +4700,4 @@ Solved Palindrome Number on 2025-06-04T19:47:00
 Solved Maximum Subarray on 2025-06-05T11:54:00
 Solved Palindrome Number on 2025-06-06T15:15:00
 Solved Valid Parentheses on 2025-06-06T21:58:00
+Solved Reverse Integer on 2025-06-07T12:49:00
