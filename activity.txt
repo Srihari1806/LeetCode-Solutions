@@ -4730,3 +4730,4 @@ Solved Search Insert Position on 2025-06-15T21:59:00
 Solved Merge Sorted Lists on 2025-06-15T9:40:00
 Solved Merge Sorted Lists on 2025-06-15T20:27:00
 Solved Maximum Subarray on 2025-06-15T22:59:00
+Solved Reverse Integer on 2025-06-15T22:30:00
