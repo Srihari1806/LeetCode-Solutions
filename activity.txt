@@ -4744,3 +4744,4 @@ Solved Maximum Subarray on 2025-06-19T23:41:00
 Solved Valid Parentheses on 2025-06-19T22:44:00
 Solved Merge Sorted Lists on 2025-06-19T14:39:00
 Solved Roman to Integer on 2025-06-19T19:0:00
+Solved Two Sum on 2025-06-19T9:13:00
