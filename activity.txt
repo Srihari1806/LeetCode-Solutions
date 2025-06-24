@@ -4753,3 +4753,4 @@ Solved Palindrome Number on 2025-06-23T15:23:00
 Solved Palindrome Number on 2025-06-23T13:39:00
 Solved Merge Sorted Lists on 2025-06-24T20:28:00
 Solved Palindrome Number on 2025-06-24T10:33:00
+Solved Reverse Integer on 2025-06-24T17:48:00
