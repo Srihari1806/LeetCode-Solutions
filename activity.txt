@@ -4768,3 +4768,4 @@ Solved Valid Parentheses on 2025-06-28T17:12:00
 Solved Two Sum on 2025-06-28T18:12:00
 Solved Merge Sorted Lists on 2025-06-30T14:17:00
 Solved Merge Sorted Lists on 2025-06-30T18:36:00
+Solved Roman to Integer on 2025-06-30T10:12:00
