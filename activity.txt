@@ -4793,3 +4793,4 @@ Solved Reverse Integer on 2025-07-07T18:58:00
 Solved Maximum Subarray on 2025-07-07T14:14:00
 Solved Maximum Subarray on 2025-07-08T19:34:00
 Solved Two Sum on 2025-07-08T10:28:00
+Solved Roman to Integer on 2025-07-08T14:59:00
