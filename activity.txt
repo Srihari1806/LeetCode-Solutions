@@ -4796,3 +4796,4 @@ Solved Two Sum on 2025-07-08T10:28:00
 Solved Roman to Integer on 2025-07-08T14:59:00
 Solved Maximum Subarray on 2025-07-08T15:10:00
 Solved Maximum Subarray on 2025-07-08T16:50:00
+Solved Reverse Integer on 2025-07-08T22:19:00
