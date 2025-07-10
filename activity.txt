@@ -4801,3 +4801,4 @@ Solved Palindrome Number on 2025-07-09T22:9:00
 Solved Valid Parentheses on 2025-07-09T12:19:00
 Solved Maximum Subarray on 2025-07-10T19:49:00
 Solved Reverse Integer on 2025-07-10T19:8:00
+Solved Two Sum on 2025-07-10T19:12:00
