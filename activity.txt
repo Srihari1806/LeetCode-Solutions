@@ -4813,3 +4813,4 @@ Solved Valid Parentheses on 2025-07-12T21:18:00
 Solved Valid Parentheses on 2025-07-12T19:35:00
 Solved Two Sum on 2025-07-13T14:44:00
 Solved Palindrome Number on 2025-07-13T18:10:00
+Solved Roman to Integer on 2025-07-13T14:47:00
