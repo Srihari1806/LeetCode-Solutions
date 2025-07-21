@@ -4846,3 +4846,4 @@ Solved Reverse Integer on 2025-07-20T23:55:00
 Solved Reverse Integer on 2025-07-20T15:2:00
 Solved Two Sum on 2025-07-21T20:33:00
 Solved Roman to Integer on 2025-07-21T9:47:00
+Solved Valid Parentheses on 2025-07-21T23:37:00
