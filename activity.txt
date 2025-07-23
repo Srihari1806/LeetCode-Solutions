@@ -4858,3 +4858,4 @@ Solved Maximum Subarray on 2025-07-23T16:26:00
 Solved Valid Parentheses on 2025-07-23T12:33:00
 Solved Palindrome Number on 2025-07-23T23:35:00
 Solved Reverse Integer on 2025-07-23T10:36:00
+Solved Two Sum on 2025-07-23T21:6:00
