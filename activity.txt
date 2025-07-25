@@ -4865,3 +4865,4 @@ Solved Maximum Subarray on 2025-07-24T18:34:00
 Solved Roman to Integer on 2025-07-25T10:21:00
 Solved Palindrome Number on 2025-07-25T11:14:00
 Solved Search Insert Position on 2025-07-25T18:19:00
+Solved Valid Parentheses on 2025-07-25T17:2:00
