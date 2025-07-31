@@ -4881,3 +4881,4 @@ Solved Merge Sorted Lists on 2025-07-28T10:39:00
 Solved Roman to Integer on 2025-07-29T19:5:00
 Solved Valid Parentheses on 2025-07-29T14:30:00
 Solved Reverse Integer on 2025-07-29T10:12:00
+Solved Palindrome Number on 2025-07-31T22:9:00
