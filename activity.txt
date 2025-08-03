@@ -4889,3 +4889,4 @@ Solved Search Insert Position on 2025-08-02T9:45:00
 Solved Reverse Integer on 2025-08-02T14:35:00
 Solved Two Sum on 2025-08-02T12:23:00
 Solved Roman to Integer on 2025-08-03T18:35:00
+Solved Merge Sorted Lists on 2025-08-03T23:3:00
