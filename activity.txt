@@ -4919,3 +4919,4 @@ Solved Valid Parentheses on 2025-08-14T17:40:00
 Solved Palindrome Number on 2025-08-14T16:56:00
 Solved Maximum Subarray on 2025-08-14T20:14:00
 Solved Merge Sorted Lists on 2025-08-14T12:13:00
+Solved Reverse Integer on 2025-08-14T16:21:00
