@@ -4924,3 +4924,4 @@ Solved Palindrome Number on 2025-08-14T22:49:00
 Solved Maximum Subarray on 2025-08-15T14:23:00
 Solved Maximum Subarray on 2025-08-16T12:15:00
 Solved Two Sum on 2025-08-16T22:3:00
+Solved Merge Sorted Lists on 2025-08-17T23:19:00
