@@ -4932,3 +4932,4 @@ Solved Merge Sorted Lists on 2025-08-19T12:51:00
 Solved Roman to Integer on 2025-08-19T17:3:00
 Solved Valid Parentheses on 2025-08-19T12:4:00
 Solved Valid Parentheses on 2025-08-19T15:30:00
+Solved Palindrome Number on 2025-08-19T19:4:00
