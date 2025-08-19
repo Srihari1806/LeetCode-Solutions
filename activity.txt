@@ -4929,3 +4929,4 @@ Solved Search Insert Position on 2025-08-17T13:27:00
 Solved Search Insert Position on 2025-08-19T17:58:00
 Solved Merge Sorted Lists on 2025-08-19T17:14:00
 Solved Merge Sorted Lists on 2025-08-19T12:51:00
+Solved Roman to Integer on 2025-08-19T17:3:00
