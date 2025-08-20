@@ -4935,3 +4935,4 @@ Solved Valid Parentheses on 2025-08-19T15:30:00
 Solved Palindrome Number on 2025-08-19T19:4:00
 Solved Search Insert Position on 2025-08-19T10:34:00
 Solved Reverse Integer on 2025-08-19T15:45:00
+Solved Reverse Integer on 2025-08-20T11:56:00
