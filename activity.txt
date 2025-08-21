@@ -4939,3 +4939,4 @@ Solved Reverse Integer on 2025-08-20T11:56:00
 Solved Merge Sorted Lists on 2025-08-20T20:36:00
 Solved Search Insert Position on 2025-08-20T16:4:00
 Solved Maximum Subarray on 2025-08-20T23:8:00
+Solved Search Insert Position on 2025-08-21T11:55:00
