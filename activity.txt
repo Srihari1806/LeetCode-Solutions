@@ -4948,3 +4948,4 @@ Solved Search Insert Position on 2025-08-23T15:47:00
 Solved Palindrome Number on 2025-08-23T14:55:00
 Solved Reverse Integer on 2025-08-23T14:50:00
 Solved Valid Parentheses on 2025-08-23T14:51:00
+Solved Two Sum on 2025-08-23T10:21:00
