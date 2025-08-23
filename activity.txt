@@ -4946,3 +4946,4 @@ Solved Search Insert Position on 2025-08-22T10:43:00
 Solved Roman to Integer on 2025-08-22T16:31:00
 Solved Search Insert Position on 2025-08-23T15:47:00
 Solved Palindrome Number on 2025-08-23T14:55:00
+Solved Reverse Integer on 2025-08-23T14:50:00
