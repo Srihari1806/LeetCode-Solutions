@@ -4966,3 +4966,4 @@ Solved Maximum Subarray on 2025-08-26T14:29:00
 Solved Reverse Integer on 2025-08-26T19:30:00
 Solved Palindrome Number on 2025-08-26T15:36:00
 Solved Palindrome Number on 2025-08-26T11:25:00
+Solved Roman to Integer on 2025-08-26T16:7:00
