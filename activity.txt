@@ -4963,3 +4963,4 @@ Solved Maximum Subarray on 2025-08-26T12:0:00
 Solved Search Insert Position on 2025-08-26T9:58:00
 Solved Maximum Subarray on 2025-08-26T16:12:00
 Solved Maximum Subarray on 2025-08-26T14:29:00
+Solved Reverse Integer on 2025-08-26T19:30:00
