@@ -4994,3 +4994,4 @@ Solved Maximum Subarray on 2025-09-02T22:28:00
 Solved Merge Sorted Lists on 2025-09-03T11:53:00
 Solved Valid Parentheses on 2025-09-03T18:42:00
 Solved Merge Sorted Lists on 2025-09-03T18:45:00
+Solved Roman to Integer on 2025-09-04T22:55:00
