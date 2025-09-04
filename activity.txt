@@ -4996,3 +4996,4 @@ Solved Valid Parentheses on 2025-09-03T18:42:00
 Solved Merge Sorted Lists on 2025-09-03T18:45:00
 Solved Roman to Integer on 2025-09-04T22:55:00
 Solved Search Insert Position on 2025-09-04T21:47:00
+Solved Reverse Integer on 2025-09-04T13:53:00
